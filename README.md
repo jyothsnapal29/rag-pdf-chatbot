@@ -88,11 +88,13 @@ What is the main topic of the document?
 ---
 
 ### Tech Stack
+```
 Python
 OpenAI API (Embeddings)
 FAISS (Vector Database)
 NumPy
 PyPDF
+```
 
 ---
 
