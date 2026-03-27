@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+ai-env/
+venv/
+
+# Data files
+data/*.pdf
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# FAISS index
+*.index
